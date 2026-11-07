@@ -46,11 +46,11 @@ I wanted a practical project for practicing C++: string handling, functions, use
 
 ## Roadmap / Known Limitations
 
-- **Book citations need fixing.** The fields are passed to the formatter in the wrong order, and the pages prompt is missing, so the output is garbled.
 - **Four formats are written but not connected to the menu:** two authors, email, blog entry, and unknown author. Menu options 14 to 16 currently print "Invalid choice," and option 13 (labeled "Unknown Author") exits the program instead.
 - **Stray closing quote** at the end of the online video, tweet, website, online periodical, and unknown-author citations.
 - Output is not followed by a new line or a copy option.
 - Add automated tests for each formatter.
+- Create a GUI for the program.
 
 ## License
 
