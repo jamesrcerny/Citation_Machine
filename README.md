@@ -2,8 +2,10 @@
 
 > A C++ command-line tool that builds MLA-style citations for many types of sources, so you answer a few prompts instead of formatting by hand.
 
-![screenshot](docs/screenshot.png)
-<!-- Add a screenshot of the program running in the terminal and save it as docs/screenshot.png. -->
+
+<img width="1692" height="556" alt="Screenshot 2026-11-07 134334" src="https://github.com/user-attachments/assets/8234c2e3-c924-431a-8540-2a581664b458" />
+<img width="1311" height="897" alt="Screenshot 2026-11-07 134322" src="https://github.com/user-attachments/assets/8160b214-0182-410f-800c-992c05b86bcc" />
+
 
 ---
 
